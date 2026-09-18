@@ -57,4 +57,4 @@ Detection speed matters as much as prevention. The simulated timeline shows an a
 
 ## Author
 
-Soban Raja — Cybersecurity Intern, Internee.pk
+Zunaira Shahzad — Cybersecurity Intern, Internee.pk
